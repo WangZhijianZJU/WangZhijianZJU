@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WangZhijianZJU from Zhejiang University
 - 👀 I’m interested in game dynamics 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on experimental game dynamics
 - 📫 How to reach me https://person.zju.edu.cn/zhijianwang 
 
 <!---
