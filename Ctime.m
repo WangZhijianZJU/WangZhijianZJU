@@ -1,3 +1,8 @@
+% code for Strategy Space Collapse: Experiment and Theory
+% Yijia Wang* and Zhijian Wang†
+% April 2019
+% http://gtcenter.org/Archive/2019/Conf/Wang3311.pdf
+% 
 % for K=1:3;Ctime(K);end
 function r=Ctime() %(Exp1Dyn2Sim3)
     P2=[];
