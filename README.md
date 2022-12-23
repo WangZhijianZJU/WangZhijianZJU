@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WangZhijianZJU from Zhejiang University
-- 👀 I’m interested in game theory 
+- 👀 I’m interested in game theoryand experiment  
 - 🌱 I’m currently working on the game dynamics theory and experiment
 - 💞️ I’m looking to collaborate on experimental game dynamics
 - 📫 How to reach me https://person.zju.edu.cn/zhijianwang 
